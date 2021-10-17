@@ -1,6 +1,6 @@
 # Project Demo Links #
 
-##Seeing Simcha– *Demo*  
+##Seeing Simcha–## *Demo*  
 
 Ai in C & GCP  
 
